@@ -1,6 +1,6 @@
 
 # Repositorio de actividades – IA aplicada a Economía I-Daniel Caicedo
-![image alt] (https://github.com/caicedoballe-arch/Talleres-y-actividades-Daniel-Caicedo-IA-con-aplicaciones-en-economia-I/blob/75b367559af1c8875aa3c5f16ab401d241d1786f/images.jpg)
+(https://github.com/caicedoballe-arch/Talleres-y-actividades-Daniel-Caicedo-IA-con-aplicaciones-en-economia-I/blob/75b367559af1c8875aa3c5f16ab401d241d1786f/images.jpg)
 
 Hola profe, espero que te encuentres bien.
 
